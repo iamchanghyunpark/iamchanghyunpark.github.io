@@ -9,6 +9,11 @@
   margin-top: 0px;
 }
 
+.header_text h3 {
+  margin-block-end:0.33em;
+  font-size: 1em;
+}
+
 @media (max-width: 500px) {
   .header {
     flex-direction: column;
@@ -41,9 +46,6 @@ h2,h3, h4 {
   font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
 }
 
-h4 {
-  margin-block-end:0.33em;
-}
 
 html {
   font-family: system-ui, sans-serif;
