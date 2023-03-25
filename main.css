@@ -14,6 +14,12 @@
   font-size: 1em;
 }
 
+.header_img {
+  border-radius:8px;
+  width: 200px;
+  height: 289px;
+}
+
 @media (max-width: 500px) {
   .header {
     flex-direction: column;
@@ -21,12 +27,6 @@
   .header_text h1,h2,h3,h4 {
     text-align: center;
   }
-}
-
-img {
-  max-width: 200px;
-  border-radius:8px;
-  height: auto;
 }
 
 ul {

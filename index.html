@@ -13,8 +13,22 @@
   <body>
     <div class="header">
       <div class="header_image">
-        <img src="images/portrait_outdoors.jpg" width="200" height="289"
-              alt="Portrait of Chang Hyun on a warm winter day in Uppsala.">
+        <picture>
+          <source type="image/webp"
+                  srcset="images/portrait-warm-winter-600w.webp 3x,
+                          images/portrait-warm-winter-400w.webp 2x,
+                          images/portrait-warm-winter-200w.webp 1x">
+          <source type="image/jpeg"
+                  srcset="images/portrait-warm-winter-600w.jpg 3x,
+                          images/portrait-warm-winter-400w.jpg 2x,
+                          images/portrait-warm-winter-200w.jpg 1x">
+          <img class="header_img"
+               src="images/portrait-warm-winter-200w.jpg"
+               srcset="images/portrait-warm-winter-600w.jpg 3x,
+                       images/portrait-warm-winter-400w.jpg 2x,
+                       images/portrait-warm-winter-200w.jpg 1x"
+               alt="Portrait of Chang Hyun on a warm winter day in Uppsala.">
+        </picture>
       </div>
       <div class="header_text">
         <H1>Chang Hyun Park</H1>
