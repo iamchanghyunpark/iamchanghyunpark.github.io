@@ -1,0 +1,10 @@
+@inproceedings{hadddid-memsys23,
+    author = {Hassan, Muhammad and Park, Chang Hyun and Black-Schaffer, David},
+    title = {{Protean: Resource-efficient Instruction Prefetching}},
+    year = {2023},
+    publisher = {ACM},
+    url = {https://doi.org/10.1145/3631882.3631904},
+    doi = {10.1145/3631882.3631904},
+    booktitle = {The International Symposium on Memory Systems (MEMSYS ’23)},
+    numpages = {13},
+}

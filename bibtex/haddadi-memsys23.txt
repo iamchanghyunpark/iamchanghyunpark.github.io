@@ -1,0 +1,10 @@
+@inproceedings{hadddid-memsys23,
+    author = {Haddadi, Alireza and Black-Schaffer, David and Park, Chang Hyun},
+    title = {{Large- scale Graph Processing on Commodity Systems: Understanding and Miti- gating the Impact of Swapping}},
+    year = {2023},
+    publisher = {ACM},
+    url = {https://doi.org/10.1145/3631882.3631884},
+    doi = {10.1145/3631882.3631884},
+    booktitle = {The International Symposium on Memory Systems (MEMSYS ’23)},
+    numpages = {11},
+}
