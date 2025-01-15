@@ -1,0 +1,11 @@
+@inproceedings{kim-iccd2022,
+    author = {Kim, Bokyeong and Hwang, Soojin and Cha, Sanghoon and Park, Chang Hyun and Park, Jongse and Huh, Jaehyuk},
+    title = {{Supporting Dynamic Translation Granularity for Hybrid Memory Systems}},
+    year = {2022},
+    publisher = {IEEE},
+    url = {https://doi.org/10.1109/ICCD56317.2022.00015},
+    doi = {10.1109/ICCD56317.2022.00015},
+    booktitle = {2022 IEEE 40th International Conference on Computer Design (ICCD)},
+    pages = {25–32},
+    numpages = {8}
+}
